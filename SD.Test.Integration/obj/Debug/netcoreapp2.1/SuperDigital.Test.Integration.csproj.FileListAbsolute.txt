@@ -1,0 +1,100 @@
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Test.Integration.deps.json
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Test.Integration.runtimeconfig.json
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Test.Integration.runtimeconfig.dev.json
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Test.Integration.dll
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.csprojAssemblyReference.cache
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.csproj.CoreCompileInputs.cache
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.RazorAssemblyInfo.cache
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.RazorAssemblyInfo.cs
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.AssemblyInfoInputs.cache
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.AssemblyInfo.cs
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.RazorTargetAssemblyInfo.cache
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Test.Integration.pdb
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Api.dll
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Domain.dll
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Infra.dll
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Api.pdb
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Domain.pdb
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Infra.pdb
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.csproj.CopyComplete
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.dll
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.pdb
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Test.Integration.deps.json
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Test.Integration.runtimeconfig.json
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Test.Integration.runtimeconfig.dev.json
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Test.Integration.dll
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Test.Integration.pdb
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Api.dll
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Domain.dll
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Infra.dll
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Api.pdb
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Domain.pdb
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Infra.pdb
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.csprojAssemblyReference.cache
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.csproj.CoreCompileInputs.cache
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.RazorAssemblyInfo.cache
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.RazorAssemblyInfo.cs
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.AssemblyInfoInputs.cache
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.AssemblyInfo.cs
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.RazorTargetAssemblyInfo.cache
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.csproj.CopyComplete
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.dll
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.pdb
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Test.Integration.deps.json
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Test.Integration.runtimeconfig.json
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Test.Integration.runtimeconfig.dev.json
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Test.Integration.dll
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Test.Integration.pdb
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Api.dll
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Domain.dll
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Infra.dll
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Api.pdb
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Domain.pdb
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Infra.pdb
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.csprojAssemblyReference.cache
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.csproj.CoreCompileInputs.cache
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.RazorAssemblyInfo.cache
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.RazorAssemblyInfo.cs
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.AssemblyInfoInputs.cache
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.AssemblyInfo.cs
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.RazorTargetAssemblyInfo.cache
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.csproj.CopyComplete
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.dll
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.pdb
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Test.Integration.deps.json
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Test.Integration.runtimeconfig.json
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Test.Integration.runtimeconfig.dev.json
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Test.Integration.dll
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Test.Integration.pdb
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Api.dll
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Domain.dll
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Infra.dll
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Api.pdb
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Domain.pdb
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\bin\Debug\netcoreapp2.1\SuperDigital.Infra.pdb
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.csprojAssemblyReference.cache
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.AssemblyInfoInputs.cache
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.AssemblyInfo.cs
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.RazorAssemblyInfo.cache
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.RazorAssemblyInfo.cs
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.RazorTargetAssemblyInfo.cache
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.csproj.CopyComplete
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.dll
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.pdb
+C:\Desenvolvimento\dbserver-master\SuperDigital.Test.Integration\obj\Debug\netcoreapp2.1\SuperDigital.Test.Integration.genruntimeconfig.cache

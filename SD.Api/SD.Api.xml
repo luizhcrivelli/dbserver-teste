@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SD.Api</name>
+    </assembly>
+    <members>
+        <member name="M:SD.Api.Controllers.ContaController.EfetuarOperacao(SD.Domain.Params.Operacao)">
+            <summary>
+            Função para fazer uma operação de débito (origem) e crédito (destino) nas contas correntes
+            </summary>
+            <param name="operacao">objeto contendo as contas e valor de transferência esperado para a operação</param>
+            <returns></returns>
+            <response code="200">Operação de transferência efetuada com sucesso</response>
+            <response code="400">Caso alguma informação estiver errada é retornada a informação</response>
+        </member>
+    </members>
+</doc>

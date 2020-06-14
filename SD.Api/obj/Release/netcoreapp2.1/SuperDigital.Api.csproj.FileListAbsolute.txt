@@ -1,0 +1,57 @@
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Api.deps.json
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Api.runtimeconfig.json
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Api.runtimeconfig.dev.json
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Api.dll
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Api.pdb
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Domain.dll
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Infra.dll
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Domain.pdb
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Infra.pdb
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.csprojAssemblyReference.cache
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.csproj.CoreCompileInputs.cache
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.RazorAssemblyInfo.cache
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.RazorAssemblyInfo.cs
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.AssemblyInfoInputs.cache
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.AssemblyInfo.cs
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.RazorTargetAssemblyInfo.cache
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.csproj.CopyComplete
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.dll
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.pdb
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Api.deps.json
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Api.runtimeconfig.json
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Api.runtimeconfig.dev.json
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Api.dll
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Api.pdb
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Domain.dll
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Infra.dll
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Domain.pdb
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Infra.pdb
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.csprojAssemblyReference.cache
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.csproj.CoreCompileInputs.cache
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.RazorAssemblyInfo.cache
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.RazorAssemblyInfo.cs
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.AssemblyInfoInputs.cache
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.AssemblyInfo.cs
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.RazorTargetAssemblyInfo.cache
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.csproj.CopyComplete
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.dll
+E:\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.pdb
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Api.deps.json
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Api.runtimeconfig.json
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Api.runtimeconfig.dev.json
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Api.dll
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Api.pdb
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Domain.dll
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Infra.dll
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Domain.pdb
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Api\bin\Release\netcoreapp2.1\SuperDigital.Infra.pdb
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.csprojAssemblyReference.cache
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.csproj.CoreCompileInputs.cache
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.RazorAssemblyInfo.cache
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.RazorAssemblyInfo.cs
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.AssemblyInfoInputs.cache
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.AssemblyInfo.cs
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.RazorTargetAssemblyInfo.cache
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.csproj.CopyComplete
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.dll
+E:\Teste SantoAnder\BancoSantander.SuperDigital.Teste\SuperDigital.Api\obj\Release\netcoreapp2.1\SuperDigital.Api.pdb

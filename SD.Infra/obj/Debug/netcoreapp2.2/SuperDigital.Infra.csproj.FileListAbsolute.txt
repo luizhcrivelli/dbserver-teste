@@ -1,0 +1,12 @@
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Infra\bin\Debug\netcoreapp2.2\SuperDigital.Infra.deps.json
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Infra\bin\Debug\netcoreapp2.2\SuperDigital.Infra.dll
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Infra\bin\Debug\netcoreapp2.2\SuperDigital.Infra.pdb
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Infra\bin\Debug\netcoreapp2.2\SuperDigital.Domain.dll
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Infra\bin\Debug\netcoreapp2.2\SuperDigital.Domain.pdb
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Infra\obj\Debug\netcoreapp2.2\SuperDigital.Infra.csprojAssemblyReference.cache
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Infra\obj\Debug\netcoreapp2.2\SuperDigital.Infra.csproj.CoreCompileInputs.cache
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Infra\obj\Debug\netcoreapp2.2\SuperDigital.Infra.AssemblyInfoInputs.cache
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Infra\obj\Debug\netcoreapp2.2\SuperDigital.Infra.AssemblyInfo.cs
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Infra\obj\Debug\netcoreapp2.2\SuperDigital.Infra.csproj.CopyComplete
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Infra\obj\Debug\netcoreapp2.2\SuperDigital.Infra.dll
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Infra\obj\Debug\netcoreapp2.2\SuperDigital.Infra.pdb

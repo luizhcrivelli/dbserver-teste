@@ -1,0 +1,9 @@
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Domain\bin\Release\netcoreapp2.2\SuperDigital.Domain.deps.json
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Domain\bin\Release\netcoreapp2.2\SuperDigital.Domain.dll
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Domain\bin\Release\netcoreapp2.2\SuperDigital.Domain.pdb
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Domain\obj\Release\netcoreapp2.2\SuperDigital.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Domain\obj\Release\netcoreapp2.2\SuperDigital.Domain.AssemblyInfoInputs.cache
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Domain\obj\Release\netcoreapp2.2\SuperDigital.Domain.AssemblyInfo.cs
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Domain\obj\Release\netcoreapp2.2\SuperDigital.Domain.dll
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Domain\obj\Release\netcoreapp2.2\SuperDigital.Domain.pdb
+C:\Users\sergiofilho-mtz\Downloads\BancoSantander.SuperDigital.Teste\SuperDigital.Domain\obj\Release\netcoreapp2.2\SuperDigital.Domain.csprojAssemblyReference.cache

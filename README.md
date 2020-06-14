@@ -10,6 +10,10 @@ Todos recursos solicitados no teste estão aplicados.
 Caminho da chamada da api : http://localhost:50001/Conta/EfetuarOperacao
 
 Para os testes, só dar um Run Tests pelo proprio VS nos projetos que estão na pasta tests.
+![Alt text](/resultadoDoTeste.png?raw=true "Testes")
 
 Utilizado:
 Visual Studio 2019 , .net core 2.1 , xunit , swagger , FluentAssertions
+
+
+![Alt text](/screenSwagger.png?raw=true "Testes")
